@@ -1,2 +1,2 @@
 # POS
-Simple POS Template
+Simple POS Template based on Bootstrap 5
