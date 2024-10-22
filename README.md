@@ -1,0 +1,2 @@
+# POS
+Simple POS Template
